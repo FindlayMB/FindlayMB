@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 ### My name is ***Findlay Brown***
 
-I am studying Software Engineering with a minor in Mechatronics at The University of Calgary. <br />
+I am studying Software Engineering at The University of Calgary. <br />
 I enjoy learning embedded software programming and backend web development! <br />
 
 
