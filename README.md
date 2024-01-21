@@ -12,6 +12,12 @@ I enjoy learning embedded software programming and backend web development! <br 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
 ## 🛠️ Other Technical Tools
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
@@ -20,12 +26,9 @@ I enjoy learning embedded software programming and backend web development! <br 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-## ⌨️ My teams
-<table style='border:none'>
-  <thread align="center">
-  <td><b> <a href="https://github.com/StudentOrganisationForAerospaceResearch" tagret="_blank" rel="AvionicsSoftware"><img alt="AvionicsSoftware" src="https://user-images.githubusercontent.com/78698227/194955901-54a12bca-59ed-47cb-b7e6-3c6185ff94d5.png" width="50"/>
-  </b></td>
-</table>
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 ## 📫 How to reach me:
@@ -33,7 +36,7 @@ I enjoy learning embedded software programming and backend web development! <br 
 
 <a href = "https://stackoverflow.com/users/20427552/findlay-brown" rel="Stackoverflow">![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FindlayMB&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 FindlayMB/FindlayMB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
