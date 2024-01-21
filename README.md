@@ -36,8 +36,11 @@ I enjoy learning embedded software programming and backend web development! <br 
 
 <a href = "https://stackoverflow.com/users/20427552/findlay-brown" rel="Stackoverflow">![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FindlayMB&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FindlayMB&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FindlayMB)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 FindlayMB/FindlayMB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
