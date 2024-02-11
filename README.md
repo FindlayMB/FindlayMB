@@ -38,6 +38,9 @@ I enjoy learning embedded software programming and backend web development! <br 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FindlayMB&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<figure>
+  <embed src="https://wakatime.com/share/@018d29b1-51be-45f2-9ab1-74613f320155/4088e93d-5bda-43ed-a0b8-2356b057f456.svg"></embed>
+</figure>
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FindlayMB)](https://github.com/anuraghazra/github-readme-stats)
 -->
