@@ -4,7 +4,10 @@
 I am studying Software Engineering at The University of Calgary. <br />
 I enjoy learning embedded software programming and backend web development! <br />
 
-
+## Currently Learning
+[<img src='https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324' alt='Rust' height='40'>](https://www.rust-lang.org/)
+[<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' height='40'>](https://www.typescriptlang.org/)
+[<img src='https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white' alt='NeoVIM' height='40'>](https://neovim.io/)
 <!--
 Format for badges
 [<img src='<image link>' alt='<name>' height='40'>](<link to a cite>)
@@ -17,17 +20,10 @@ Format for badges
 [<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='Java' height='40'>](https://docs.oracle.com/en/java/)
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' height='40'>](https://dev.mysql.com/doc/)
 
-<!--
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
--->
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1' alt='JavaScript' height='40'>](https://www.javascript.com/)
+[<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5' height='40'>](https://html5.org/)
+[<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='CSS' height='40'>](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' height='40'>](https://react.dev/)
 
 
 ## 🛠️ Other Technical Tools
