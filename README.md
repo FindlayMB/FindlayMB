@@ -47,7 +47,7 @@ Format for badges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FindlayMB&theme=radical&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://github-readme-stats.vercel.app/api?username=FindlayMB&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
 <!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FindlayMB)](https://github.com/anuraghazra/github-readme-stats)
 -->
