@@ -10,7 +10,8 @@ I enjoy learning embedded software programming and backend web development! <br 
 [<img src='https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white' alt='NeoVIM' height='40'>](https://neovim.io/)
 <!--
 Format for badges
-[<img src='<image link>' alt='<name>' height='40'>](<link to a cite>)
+[<img src='<image link>' alt='<name>' height='40'>](<link to a site>)
+[<img src='' alt='' height='40'>]()
 -->
 
 ## 👨‍💻 Languages I Use
