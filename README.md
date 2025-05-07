@@ -5,9 +5,13 @@ I am studying Software Engineering at The University of Calgary. <br />
 I enjoy learning embedded software programming and backend web development! <br />
 
 ## Currently Learning
+
+
 [<img src='https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324' alt='Rust' height='40'>](https://www.rust-lang.org/)
 [<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' height='40'>](https://www.typescriptlang.org/)
-[<img src='https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white' alt='NeoVIM' height='40'>](https://neovim.io/)
+[<img src='https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white' alt='Go' height='40'/>](https://go.dev/)
+
+
 <!--
 Format for badges
 [<img src='<image link>' alt='<name>' height='40'>](<link to a site>)
@@ -28,17 +32,61 @@ Format for badges
 
 
 ## 🛠️ Other Technical Tools
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+### Source Control 
+<p float="left">
+  <img 
+    src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' 
+    alt='Git' 
+    height='40'/>
+  <img 
+    src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' 
+    alt='GitHub' 
+    height='40' />
+</p>
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### Embedded
+<p float="left">
+  <img 
+    src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white' 
+    alt='Arduino' 
+    height='40' />
+  <img 
+    src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white' 
+    alt='Raspberry Pi' 
+    height='40'/>
+</p>
 
+### Integrated Development Environments
+<p float="left">
+  <img 
+    src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white' 
+    alt='Visual Studio Code' 
+    height='40'/>
+  <img 
+    src='https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white' 
+    alt='Eclipse' 
+    height='40'/>
+  <img 
+    src='https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black' 
+    alt='Notepad++' 
+    height='40'/>
+</p>
+
+<p float="left">
+  <img 
+    src='https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white' 
+    alt='PyCharm' 
+    height='40'/>
+  <img 
+    src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' 
+    alt='IntelliJ_IDEA' 
+    height='40'/>
+  <img 
+    src='https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white' 
+    alt='NeoVIM' 
+    height='40'>
+</p>
 
 ## 📫 How to reach me:
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/FindlayMB)
